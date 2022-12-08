@@ -11,3 +11,18 @@ we stumbled upon while browsing the web.
 Website to create diagrams that look like hand sketches. [More](https://github.com/Hackertreff-Reutte/useful-links-and-tools/blob/main/drawing/excalidraw.md)
 
 URL: https://excalidraw.com/
+
+
+### Figma
+
+Website to create interface designs/mocks
+
+URL: https://figma.com/
+
+
+### bundlephobia
+
+Website to find the cost(size) of adding a npm package to your bundle
+
+URL https://bundlephobia.com/
+
