@@ -49,5 +49,5 @@ URL https://www.derivative-calculator.net/
 
 ## Simulator
 
-###Mechnical simulation
+### Mechnical simulation
 URL https://ifb-sw.tugraz.at/p/statiktugo/
