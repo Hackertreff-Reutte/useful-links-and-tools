@@ -24,30 +24,31 @@ URL: https://figma.com/
 
 Website to find the cost(size) of adding a npm package to your bundle
 
-URL https://bundlephobia.com/
+URL: https://bundlephobia.com/
 
 
 ### Collection of manuels for Baofeng and BridgeCom Systems  (HAM Radios)
 
-URL https://www.miklor.com/
+URL: https://www.miklor.com/
 
 #### Manual channel programming Baofeng UVR5
 
 Website with instructions for programming a new Channel on a UVR5 (maybe include the whole instruction here)
 
-URL http://www.miklor.com/COM/UV_ProgMem.php#Option1
+URL: http://www.miklor.com/COM/UV_ProgMem.php#Option1
 
 ## Calculators
 
 ### Integral calculator (with explanation)
 
-URL https://www.integral-calculator.com/
+URL: https://www.integral-calculator.com/
 
 ### Derivative Calculator (with explanation)
 
-URL https://www.derivative-calculator.net/
+URL: https://www.derivative-calculator.net/
 
 ## Simulator
 
 ### Mechnical simulation
-URL https://ifb-sw.tugraz.at/p/statiktugo/
+
+URL: https://ifb-sw.tugraz.at/p/statiktugo/
