@@ -46,3 +46,8 @@ URL https://www.integral-calculator.com/
 ### Derivative Calculator (with explanation)
 
 URL https://www.derivative-calculator.net/
+
+##Simulator
+
+###Mechnical simulation
+URL https://ifb-sw.tugraz.at/p/statiktugo/
