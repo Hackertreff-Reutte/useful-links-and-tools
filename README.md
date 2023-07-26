@@ -47,16 +47,20 @@ URL: https://www.integral-calculator.com/
 
 URL: https://www.derivative-calculator.net/
 
-## Simulator
+## Simulator (Online)
+
+### Circuit simulation
+
+URL: https://www.falstad.com/circuit/
 
 ### Mechnical simulation
 
 URL: https://ifb-sw.tugraz.at/p/statiktugo/
 
-## Lowlevel Networktools 
+## Lowlevel Network tools 
 
-###proprietary
+### proprietary
 
 #### for RT-N12 (should also work for other Asus Router)
-URL:https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?model=RT-N12+%20B1
+URL: https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?model=RT-N12+%20B1
 
