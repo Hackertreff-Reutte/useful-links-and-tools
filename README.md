@@ -52,3 +52,11 @@ URL: https://www.derivative-calculator.net/
 ### Mechnical simulation
 
 URL: https://ifb-sw.tugraz.at/p/statiktugo/
+
+## Lowlevel Networktools 
+
+###proprietary
+
+#### for RT-N12 (should also work for other Asus Router)
+URL:https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?model=RT-N12+%20B1
+
