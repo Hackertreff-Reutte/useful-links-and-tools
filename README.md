@@ -37,6 +37,12 @@ Website with instructions for programming a new Channel on a UVR5 (maybe include
 
 URL: http://www.miklor.com/COM/UV_ProgMem.php#Option1
 
+## Storage management
+
+### GUI for Storage Management on Windows 
+
+URL: https://www.jam-software.com/treesize_free?ca=1
+
 ## Calculators
 
 ### Integral calculator (with explanation)
