@@ -72,7 +72,7 @@ URL: https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?mode
 
 ## Storage Tools
 
-### Memory Detection
+### Storage Detection
 
 #### f3 - Fight Flash Fraud
 URL: https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#download-and-compile
