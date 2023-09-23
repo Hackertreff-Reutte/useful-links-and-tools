@@ -70,3 +70,9 @@ URL: https://ifb-sw.tugraz.at/p/statiktugo/
 #### for RT-N12 (should also work for other Asus Router)
 URL: https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?model=RT-N12+%20B1
 
+## Storage Tools
+
+### Memory Detection
+
+#### f3 - Fight Flash Fraud
+URL: https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#download-and-compile
