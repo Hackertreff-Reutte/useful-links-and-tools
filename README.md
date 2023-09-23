@@ -26,6 +26,7 @@ Website to find the cost(size) of adding a npm package to your bundle
 
 URL: https://bundlephobia.com/
 
+## HAM Stuff
 
 ### Collection of manuels for Baofeng and BridgeCom Systems  (HAM Radios)
 
@@ -37,11 +38,16 @@ Website with instructions for programming a new Channel on a UVR5 (maybe include
 
 URL: http://www.miklor.com/COM/UV_ProgMem.php#Option1
 
-## Storage management
+## Storage Tools
 
 ### GUI for Storage Management on Windows 
 
 URL: https://www.jam-software.com/treesize_free?ca=1
+
+### Flash Storage Detection
+
+#### f3 - Fight Flash Fraud
+URL: https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#download-and-compile
 
 ## Calculators
 
@@ -70,9 +76,4 @@ URL: https://ifb-sw.tugraz.at/p/statiktugo/
 #### for RT-N12 (should also work for other Asus Router)
 URL: https://dlcdnets.asus.com/pub/ASUS/wireless/ASUSWRT/Discovery_1483.zip?model=RT-N12+%20B1
 
-## Storage Tools
 
-### Storage Detection
-
-#### f3 - Fight Flash Fraud
-URL: https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#download-and-compile
