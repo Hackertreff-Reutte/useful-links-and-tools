@@ -59,6 +59,12 @@ URL: https://www.integral-calculator.com/
 
 URL: https://www.derivative-calculator.net/
 
+## Simulator (open-source)
+
+### Logic simulation
+
+URL: http://www.cburch.com/logisim/
+
 ## Simulator (Online)
 
 ### Circuit simulation
